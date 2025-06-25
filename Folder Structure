@@ -1,0 +1,5 @@
+newsletter-signup/
+├── index.html        # Form structure
+├── style.css         # Styling
+├── script.js         # Validation logic
+└── README.md         # Documentation
